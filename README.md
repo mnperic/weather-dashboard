@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png) 
+![Images/landing_resize.png](Images/landing_resize.png) 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
@@ -21,7 +21,7 @@ The website must consist of 7 pages total, including:
 * A [landing page](#landing-page) containing:
   * An explanation of the project.
   * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
-* Four [visualization pages](#visualization-pages), each with:
+* Four [visualisation pages](#visualisation-pages), each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
   * A paragraph describing the plot and its significance.
@@ -31,8 +31,6 @@ The website must consist of 7 pages total, including:
     * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
 * A ["Data" page](#data-page) that:
   * Displays a responsive table containing the data used in the visualizations.
-    * The table must be a bootstrap table component. [Hint](https://getbootstrap.com/docs/4.3/content/tables/#responsive-tables)
-    * The data must come from exporting the `.csv` file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called `to_html` that allows you to generate a HTML table from a pandas dataframe. See the documentation [here](https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_html.html)
 
 The website must, at the top of every page, have a navigation menu that:
 
@@ -72,33 +70,33 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![Landing page large screen](Images/landing_resize.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](Images/landing_small.png)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](Images/comparison_large.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](Images/comparison_small.png)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![data page large screen](Images/data_large.png)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data page small screen](Images/data_small.png)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -106,16 +104,16 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![visualize page large screen](Images/visualise_large.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![visualize page small screen](Images/visualise_small.png)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![nav menu large screen](Images/nav_large.png)
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+![nav menu small screen](Images/nav_small.png)
