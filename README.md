@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design Homework - Web Visualisation Dashboard (Latitude)
 
 ## Background
 
@@ -75,7 +75,7 @@ Large screen:
 Small screen:
 
 ![Landing page small screen](Images/landing_small.png)
-￼
+
 
 #### <a id="comparisons-page"></a>Comparisons page
 
