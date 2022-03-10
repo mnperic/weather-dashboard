@@ -114,6 +114,3 @@ Small screen:
 
 Large screen:
 ![nav menu large screen](Images/nav_large.png)
-
-Small screen:
-![nav menu small screen](Images/nav_small.png)
